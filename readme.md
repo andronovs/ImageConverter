@@ -1,8 +1,8 @@
 ImageConverter
 =====================
 
-Converts image files (JPG, PNG) in predefined directory to specified format (JPG, PNG). 
-The conversion details are configured in the lib\main.js and include the source and target directories, source and target image formats, target image quality (100 - highest and 0 - lowest). 
+Converts image files (JPG, PNG) located in predefined directory to specified format (JPG, PNG). 
+The conversion details are configured in lib\main.js and include the source and target directories, source and target image formats, target image quality (100 = highest and 0 = lowest). 
 
 Requirements:
 -------------
