@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Node.js package to convert JPG/PNG image files to alternative image format.",
   "main": "main.js",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/andronovs/ImageConverter.git" 
+  },
   "bin": {
     "ImageConverter": "main.js"
   },
